@@ -10,7 +10,7 @@ This package is inspired by the concept of BLoC proposed by Paolo Soares on Dart
 
 # Installation
 
-- 1. Add the JitPack repository to your build file. 
+1. Add the JitPack repository to your build file. 
 Add it in your root build.gradle at the end of repositories:
 
 ```
@@ -21,7 +21,7 @@ allprojects {
 	}
 }
 ```
-- 2. Add the dependency on the app's build.gradle. Set $lib_version_tag with the latest tag version, ex.:('0.1.2').
+2. Add the dependency on the app's build.gradle. Set $lib_version_tag with the latest tag version, ex.:('0.1.2').
 [![Tag Badge](https://badgen.net/github/tag/tgloureiro/android-bloc)](https://badgen.net/github/tag/tgloureiro/android-bloc)
 ```
 dependencies {
