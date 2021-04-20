@@ -1,6 +1,7 @@
 
 [![Tag Badge](https://badgen.net/github/tag/tgloureiro/android-bloc)](https://badgen.net/github/tag/tgloureiro/android-bloc)
 [![License Badge](https://badgen.net/github/license/tgloureiro/android-bloc)](https://badgen.net/github/license/tgloureiro/android-bloc)
+[![Build and Test](https://github.com/tgloureiro/android-bloc/actions/workflows/android.yml/badge.svg)](https://github.com/tgloureiro/android-bloc/actions)
 
 # Android-BLoC
 
